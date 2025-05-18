@@ -1,16 +1,17 @@
-# [SDF01] Challenge: My First Repo 🚀
+# Introductory Repo 🚀
 
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Takunda Mundawarwo
 
-🌱 Beginner Software Developer | 🚀 Excited to Learn & Build
+🌱 Beginner Software Developer | 🚀 Continually learning and building 
 
 ---
 
 ## 🎯 About Me
 
-- 💡 I'm currently learning **GitHub and version control** before diving into coding.
+- 📌I have a keen interest in programming and experience with **Java, C# and Python**!
+- 💡 I'm currently expanding my **GitHub and version control** knowledge and capabilities.
 - 🎓 Soon, I'll be exploring **HTML, CSS, and JavaScript**!
-- 🤖 I love problem-solving and working on creative projects.
+- 🤖 I enjoy taking on a challenge that enables me to improve my skills and learn new things.
 - 🔥 Looking forward to building my first real-world application.
 
 ---
@@ -32,8 +33,9 @@
 
 ## 🏆 Soft Skills
 
+- 🎨 Creativity and outside the box thinking
 - 🤝 Teamwork & Collaboration
-- 📢 Communication Skills
+- 📢 Effective communication
 - 🎯 Problem-Solving
 - 🚀 Adaptability
 
@@ -43,7 +45,7 @@
 
 Here are some of my milestone projects (to be updated as I progress!):
 
-### **1️⃣ First GitHub Project**
+### **1️⃣ Introductory Repo**
 
 🔹 **Description:** My first project using GitHub to manage files.  
 🔹 **Status:** ✅ Completed
@@ -58,7 +60,7 @@ Here are some of my milestone projects (to be updated as I progress!):
 
 ## 📚 Learning Goals
 
-- 🚀 Get comfortable using Git and GitHub
+- 🚀 Sharpen my Git and GitHub skills
 - 🎨 Learn HTML, CSS, and JavaScript
 - 💡 Build real-world projects and collaborate with others
 
@@ -66,18 +68,17 @@ Here are some of my milestone projects (to be updated as I progress!):
 
 ## 📫 Connect with Me
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/yourusername)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
-📧 Email: [youremail@example.com](mailto:youremail@example.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Takunda-Mundawarwo)   
+📧 Email: [tkmundawarwo@gmail.com](mailto:tkmundawarwo@gmail.com)
 
 ---
 
 ## 🚀 Fun Fact
 
-💡 I love learning new things and can't wait to build my first website!
+💡 I love doing difficult things and am currently training for my first marathon!
 
 ---
 
 ## 🏆 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Takunda-Mundawarwo&show_icons=true&theme=radical)
